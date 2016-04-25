@@ -8,8 +8,11 @@ Comparto para que sea útil y sirva como referencia para todo aquel que lo neces
 -----------
 Este material contiene contenido en:
 * Matemáticas
+    * **Cálculo univariable**: Límites, derivadas, integrales y ecuaciones diferenciales.
+    * **Cálculo multivariable**: Límites, derivadas, gradientes, teorema de la función inversa e integrales dobles y triples.
+    * **Cálculo vectorial**: Operaciones con matrices, vectores, integrales de línea, superficie y volumen
     * **Probabilidad**: Probabilidad multivariable y Procesos estocásticos
-    * **Análisis numérico**
+    * **Análisis numérico**: Aproximación polinomial, de integrales, ecuaciones lineales, no lineales y de ecuaciones diferenciales.
 * Electrónica
     * **Electrónica analógica**: díodos, transistores BJT, FET, amplificadores operacionales, filtros, timer 555, y bloques analógicos útiles
     * **Campos electromagnéticos**: Leyes de Maxwell, líneas de transmisión, guías de ondas y fibra óptica
