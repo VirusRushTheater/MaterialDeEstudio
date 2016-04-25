@@ -1,0 +1,11 @@
+Un material que hice para que comprendan el método multiplicativo para Hashear y el algoritmo de Dijkstra.
+
+El algoritmo de Dijkstra viene precargado con un grafo, aparece dibujado en el archivo "nodos.png".
+
+Para compilar todos los archivos corran el comando "make" dentro de esta carpeta.
+
+Si quieren los resultados del algoritmo de Dijkstra en un archivo ejecuten:
+./dijkstra > archivo.txt
+
+Saludos!
+Felipe Vera A.

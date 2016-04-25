@@ -1,0 +1,7 @@
+1	Arroz (1 kg)	850
+2	Fideos (300 g)	500
+3	Sémola (500 g)	1200
+4	Agua mineral (1,5 L)	600
+5	Tomates (1 kg)	1200
+6	Lechugas (c/u)	400
+7	Queso (1/4 kg)	1300
